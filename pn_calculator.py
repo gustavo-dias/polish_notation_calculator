@@ -1,4 +1,4 @@
-#!usr/bin/env
+#!usr/bin/env python3
 
 """Docstring of script pn_calculator.py.
 
